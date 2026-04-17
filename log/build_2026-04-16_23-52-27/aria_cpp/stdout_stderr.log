@@ -1,0 +1,15 @@
+[ 25%] Built target aria_ears
+[ 50%] Built target aria_tts
+[ 75%] Built target aria_terminal
+[100%] Built target aria
+-- Install configuration: ""
+-- Up-to-date: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/lib/aria_cpp/aria_terminal
+-- Up-to-date: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/lib/aria_cpp/aria_tts
+-- Up-to-date: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/lib/aria_cpp/aria_ears
+-- Up-to-date: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/lib/aria_cpp/aria
+[31mCMake Error at cmake_install.cmake:142 (file):
+  file INSTALL cannot find
+  "/home/krawlingkorpse/cpp_robotics/aria_ws/src/aria_cpp/../../../aria_cc/src/aria_ai/aria_ai/aria_prompt.txt":
+  No such file or directory.
+
+[0m

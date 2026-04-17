@@ -1,0 +1,16 @@
+[01m[K/home/krawlingkorpse/cpp_robotics/aria_ws/src/aria_cpp/src/aria.cpp:[m[K In member function ‘[01m[Kstd::string SmartARIA::[01;32m[Kchat_with_aria[m[K(const std::string&)[m[K’:
+[01m[K/home/krawlingkorpse/cpp_robotics/aria_ws/src/aria_cpp/src/aria.cpp:101:24:[m[K [01;31m[Kerror: [m[Kcannot convert ‘[01m[Kllama_context*[m[K’ to ‘[01m[Kllama_memory_t[m[K’ {aka ‘[01m[Kllama_memory_i*[m[K’}
+  101 |     llama_memory_clear([01;31m[Kctx_[m[K);
+      |                        [01;31m[K^~~~[m[K
+      |                        [01;31m[K|[m[K
+      |                        [01;31m[Kllama_context*[m[K
+In file included from [01m[K/home/krawlingkorpse/cpp_robotics/aria_ws/src/aria_cpp/src/aria.cpp:4[m[K:
+[01m[K/home/krawlingkorpse/robotics/llama.cpp/include/llama.h:634:28:[m[K [01;36m[Knote: [m[K  initializing argument 1 of ‘[01m[Kvoid[01;32m[K llama_memory_clear[m[K(llama_memory_t, bool)[m[K’
+  634 |             [01;36m[Kllama_memory_t mem[m[K,
+      |             [01;36m[K~~~~~~~~~~~~~~~^~~[m[K
+[01m[K/home/krawlingkorpse/robotics/llama.cpp/include/llama.h:62:12:[m[K [01;36m[Knote: [m[Kclass type ‘[01m[Kllama_context[m[K’ is incomplete
+   62 |     struct [01;36m[Kllama_context[m[K;
+      |            [01;36m[K^~~~~~~~~~~~~[m[K
+gmake[2]: *** [CMakeFiles/aria.dir/build.make:76: CMakeFiles/aria.dir/src/aria.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:221: CMakeFiles/aria.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

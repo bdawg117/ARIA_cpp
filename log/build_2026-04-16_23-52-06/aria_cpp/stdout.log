@@ -1,0 +1,12 @@
+[ 25%] Built target aria_terminal
+[ 50%] Built target aria_tts
+[ 75%] Built target aria_ears
+[ 87%] [32mBuilding CXX object CMakeFiles/aria.dir/src/aria.cpp.o[0m
+[100%] [32m[1mLinking CXX executable aria[0m
+[100%] Built target aria
+-- Install configuration: ""
+-- Up-to-date: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/lib/aria_cpp/aria_terminal
+-- Up-to-date: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/lib/aria_cpp/aria_tts
+-- Up-to-date: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/lib/aria_cpp/aria_ears
+-- Installing: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/lib/aria_cpp/aria
+-- Set non-toolchain portion of runtime path of "/home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/lib/aria_cpp/aria" to ""

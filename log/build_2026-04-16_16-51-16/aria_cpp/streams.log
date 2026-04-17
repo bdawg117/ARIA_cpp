@@ -1,0 +1,10 @@
+[0.008s] Invoking command in '/home/krawlingkorpse/cpp_robotics/aria_ws/build/aria_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/krawlingkorpse/robotics/aria_cc/install/aria_ai:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/krawlingkorpse/cpp_robotics/aria_ws/build/aria_cpp -- -j16 -l16
+[0.067s] [ 50%] [32mBuilding CXX object CMakeFiles/aria_terminal.dir/src/aria_terminal.cpp.o[0m
+[1.505s] [01m[K/home/krawlingkorpse/cpp_robotics/aria_ws/src/aria_cpp/src/aria_terminal.cpp:[m[K In function ‘[01m[Kint[01;32m[K main[m[K(int, char**)[m[K’:
+[1.506s] [01m[K/home/krawlingkorpse/cpp_robotics/aria_ws/src/aria_cpp/src/aria_terminal.cpp:61:15:[m[K [01;31m[Kerror: [m[K‘[01m[Kusing std::__shared_ptr_access<ARIATerminal, __gnu_cxx::_S_atomic, false, false>::element_type = class ARIATerminal[m[K’ {aka ‘[01m[Kclass ARIATerminal[m[K’} has no member named ‘[01m[Kreset[m[K’
+[1.506s]    61 |     terminal->[01;31m[Kreset[m[K();
+[1.506s]       |               [01;31m[K^~~~~[m[K
+[2.131s] gmake[2]: *** [CMakeFiles/aria_terminal.dir/build.make:76: CMakeFiles/aria_terminal.dir/src/aria_terminal.cpp.o] Error 1
+[2.131s] gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/aria_terminal.dir/all] Error 2
+[2.131s] gmake: *** [Makefile:146: all] Error 2
+[2.134s] Invoked command in '/home/krawlingkorpse/cpp_robotics/aria_ws/build/aria_cpp' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/krawlingkorpse/robotics/aria_cc/install/aria_ai:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/krawlingkorpse/cpp_robotics/aria_ws/build/aria_cpp -- -j16 -l16

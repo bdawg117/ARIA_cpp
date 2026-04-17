@@ -1,0 +1,8 @@
+[01m[K/home/krawlingkorpse/cpp_robotics/aria_ws/src/aria_cpp/src/aria_ears.cpp:3:10:[m[K [01;31m[Kfatal error: [m[Kvosk_api.h: No such file or directory
+    3 | #include [01;31m[K<vosk_api.h>[m[K
+      |          [01;31m[K^~~~~~~~~~~~[m[K
+compilation terminated.
+gmake[2]: *** [CMakeFiles/aria_ears.dir/build.make:76: CMakeFiles/aria_ears.dir/src/aria_ears.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:193: CMakeFiles/aria_ears.dir/all] Error 2
+gmake[1]: *** Waiting for unfinished jobs....
+gmake: *** [Makefile:146: all] Error 2

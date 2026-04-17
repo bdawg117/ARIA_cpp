@@ -1,0 +1,9 @@
+[ 25%] Built target aria
+[ 50%] Built target aria_ears
+[ 75%] Built target aria_terminal
+[100%] Built target aria_tts
+-- Install configuration: ""
+-- Up-to-date: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/lib/aria_cpp/aria_terminal
+-- Up-to-date: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/lib/aria_cpp/aria_tts
+-- Up-to-date: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/lib/aria_cpp/aria_ears
+-- Up-to-date: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/lib/aria_cpp/aria

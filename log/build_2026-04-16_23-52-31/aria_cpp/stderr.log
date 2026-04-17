@@ -1,0 +1,6 @@
+[31mCMake Error at cmake_install.cmake:142 (file):
+  file INSTALL cannot find
+  "/home/krawlingkorpse/cpp_robotics/aria_ws/src/aria_cpp/../../../aria_cc/src/aria_ai/aria_ai/aria_prompt.txt":
+  No such file or directory.
+
+[0m

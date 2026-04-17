@@ -1,0 +1,22 @@
+[0.009s] Invoking command in '/home/krawlingkorpse/cpp_robotics/aria_ws/build/aria_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/krawlingkorpse/robotics/aria_cc/install/aria_ai:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/krawlingkorpse/cpp_robotics/aria_ws/build/aria_cpp -- -j16 -l16
+[0.063s] [100%] Built target aria_terminal
+[0.073s] Invoked command in '/home/krawlingkorpse/cpp_robotics/aria_ws/build/aria_cpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/krawlingkorpse/robotics/aria_cc/install/aria_ai:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/krawlingkorpse/cpp_robotics/aria_ws/build/aria_cpp -- -j16 -l16
+[0.082s] Invoking command in '/home/krawlingkorpse/cpp_robotics/aria_ws/build/aria_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/krawlingkorpse/robotics/aria_cc/install/aria_ai:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/krawlingkorpse/cpp_robotics/aria_ws/build/aria_cpp
+[0.089s] -- Install configuration: ""
+[0.089s] -- Up-to-date: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/lib/aria_cpp/aria_terminal
+[0.089s] -- Up-to-date: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/share/ament_index/resource_index/package_run_dependencies/aria_cpp
+[0.089s] -- Up-to-date: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/share/ament_index/resource_index/parent_prefix_path/aria_cpp
+[0.089s] -- Up-to-date: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/share/aria_cpp/environment/ament_prefix_path.sh
+[0.089s] -- Up-to-date: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/share/aria_cpp/environment/ament_prefix_path.dsv
+[0.089s] -- Up-to-date: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/share/aria_cpp/environment/path.sh
+[0.089s] -- Up-to-date: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/share/aria_cpp/environment/path.dsv
+[0.090s] -- Up-to-date: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/share/aria_cpp/local_setup.bash
+[0.090s] -- Up-to-date: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/share/aria_cpp/local_setup.sh
+[0.090s] -- Up-to-date: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/share/aria_cpp/local_setup.zsh
+[0.090s] -- Up-to-date: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/share/aria_cpp/local_setup.dsv
+[0.090s] -- Installing: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/share/aria_cpp/package.dsv
+[0.090s] -- Up-to-date: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/share/ament_index/resource_index/packages/aria_cpp
+[0.090s] -- Up-to-date: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/share/aria_cpp/cmake/aria_cppConfig.cmake
+[0.090s] -- Up-to-date: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/share/aria_cpp/cmake/aria_cppConfig-version.cmake
+[0.090s] -- Up-to-date: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/share/aria_cpp/package.xml
+[0.091s] Invoked command in '/home/krawlingkorpse/cpp_robotics/aria_ws/build/aria_cpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/krawlingkorpse/robotics/aria_cc/install/aria_ai:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/krawlingkorpse/cpp_robotics/aria_ws/build/aria_cpp

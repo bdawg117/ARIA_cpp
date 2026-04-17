@@ -1,0 +1,30 @@
+[ 25%] Built target aria_terminal
+[ 50%] Built target aria_tts
+[ 75%] Built target aria_ears
+[ 87%] [32mBuilding CXX object CMakeFiles/aria.dir/src/aria.cpp.o[0m
+[01m[K/home/krawlingkorpse/cpp_robotics/aria_ws/src/aria_cpp/src/aria.cpp:[m[K In member function ‘[01m[Kstd::string SmartARIA::[01;32m[Kchat_with_aria[m[K(const std::string&)[m[K’:
+[01m[K/home/krawlingkorpse/cpp_robotics/aria_ws/src/aria_cpp/src/aria.cpp:101:24:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid[01;32m[K llama_kv_self_clear[m[K(llama_context*)[m[K’ is deprecated: Use llama_memory_clear() instead [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wdeprecated-declarations-Wdeprecated-declarations]8;;[m[K]
+  101 |     [01;35m[Kllama_kv_self_clear(ctx_)[m[K;
+      |     [01;35m[K~~~~~~~~~~~~~~~~~~~^~~~~~[m[K
+In file included from [01m[K/home/krawlingkorpse/cpp_robotics/aria_ws/src/aria_cpp/src/aria.cpp:4[m[K:
+[01m[K/home/krawlingkorpse/robotics/llama.cpp/include/llama.h:715:31:[m[K [01;36m[Knote: [m[Kdeclared here
+  715 |     DEPRECATED(LLAMA_API void [01;36m[Kllama_kv_self_clear[m[K(
+      |                               [01;36m[K^~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/krawlingkorpse/robotics/llama.cpp/include/llama.h:29:36:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KDEPRECATED[m[K’
+   29 | #    define DEPRECATED(func, hint) [01;36m[Kfunc[m[K __attribute__((deprecated(hint)))
+      |                                    [01;36m[K^~~~[m[K
+[100%] [32m[1mLinking CXX executable aria[0m
+[100%] Built target aria
+-- Install configuration: ""
+-- Up-to-date: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/lib/aria_cpp/aria_terminal
+-- Installing: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/lib/aria_cpp/aria_tts
+-- Set non-toolchain portion of runtime path of "/home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/lib/aria_cpp/aria_tts" to ""
+-- Up-to-date: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/lib/aria_cpp/aria_ears
+-- Installing: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/lib/aria_cpp/aria
+-- Set non-toolchain portion of runtime path of "/home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/lib/aria_cpp/aria" to ""
+[31mCMake Error at cmake_install.cmake:142 (file):
+  file INSTALL cannot find
+  "/home/krawlingkorpse/cpp_robotics/aria_ws/src/aria_cpp/../../../aria_cc/src/aria_ai/aria_ai/aria_prompt.txt":
+  No such file or directory.
+
+[0m

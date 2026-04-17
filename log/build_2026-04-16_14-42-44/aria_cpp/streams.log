@@ -1,0 +1,57 @@
+[0.010s] Invoking command in '/home/krawlingkorpse/cpp_robotics/aria_ws/build/aria_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/krawlingkorpse/robotics/aria_cc/install/aria_ai:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/krawlingkorpse/cpp_robotics/aria_ws/src/aria_cpp -DCMAKE_INSTALL_PREFIX=/home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp
+[0.121s] -- The C compiler identification is GNU 13.3.0
+[0.233s] -- The CXX compiler identification is GNU 13.3.0
+[0.259s] -- Detecting C compiler ABI info
+[0.344s] -- Detecting C compiler ABI info - done
+[0.350s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.351s] -- Detecting C compile features
+[0.351s] -- Detecting C compile features - done
+[0.361s] -- Detecting CXX compiler ABI info
+[0.447s] -- Detecting CXX compiler ABI info - done
+[0.454s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.454s] -- Detecting CXX compile features
+[0.455s] -- Detecting CXX compile features - done
+[0.465s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.600s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[0.717s] -- Found rclcpp: 28.1.10 (/opt/ros/jazzy/share/rclcpp/cmake)
+[0.779s] -- Found rosidl_generator_c: 4.6.5 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[0.799s] -- Found rosidl_generator_cpp: 4.6.5 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[0.822s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.846s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.941s] -- Found rmw_implementation_cmake: 7.3.2 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[0.946s] -- Found rmw_fastrtps_cpp: 8.4.2 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[1.050s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.13")  
+[1.067s] -- Found FastRTPS: /opt/ros/jazzy/include (Required is at least version "2.13") 
+[1.086s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.177s] -- Found std_msgs: 5.3.6 (/opt/ros/jazzy/share/std_msgs/cmake)
+[1.194s] -- Found geometry_msgs: 5.3.6 (/opt/ros/jazzy/share/geometry_msgs/cmake)
+[1.214s] -- Found sensor_msgs: 5.3.6 (/opt/ros/jazzy/share/sensor_msgs/cmake)
+[1.241s] -- Found tf2_ros: 0.36.12 (/opt/ros/jazzy/share/tf2_ros/cmake)
+[1.395s] -- Found cv_bridge: 4.1.0 (/opt/ros/jazzy/share/cv_bridge/cmake)
+[1.410s] -- Found ament_lint_auto: 0.17.2 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[1.508s] -- Added test 'lint_cmake' to check CMake code style
+[1.510s] -- Added test 'xmllint' to check XML markup files
+[1.512s] -- Configuring done (1.5s)
+[1.516s] -- Generating done (0.0s)
+[1.519s] -- Build files have been written to: /home/krawlingkorpse/cpp_robotics/aria_ws/build/aria_cpp
+[1.527s] Invoked command in '/home/krawlingkorpse/cpp_robotics/aria_ws/build/aria_cpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/krawlingkorpse/robotics/aria_cc/install/aria_ai:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/krawlingkorpse/cpp_robotics/aria_ws/src/aria_cpp -DCMAKE_INSTALL_PREFIX=/home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp
+[1.528s] Invoking command in '/home/krawlingkorpse/cpp_robotics/aria_ws/build/aria_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/krawlingkorpse/robotics/aria_cc/install/aria_ai:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/krawlingkorpse/cpp_robotics/aria_ws/build/aria_cpp -- -j16 -l16
+[1.566s] Invoked command in '/home/krawlingkorpse/cpp_robotics/aria_ws/build/aria_cpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/krawlingkorpse/robotics/aria_cc/install/aria_ai:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/krawlingkorpse/cpp_robotics/aria_ws/build/aria_cpp -- -j16 -l16
+[1.575s] Invoking command in '/home/krawlingkorpse/cpp_robotics/aria_ws/build/aria_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/krawlingkorpse/robotics/aria_cc/install/aria_ai:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/krawlingkorpse/cpp_robotics/aria_ws/build/aria_cpp
+[1.583s] -- Install configuration: ""
+[1.583s] -- Installing: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/share/ament_index/resource_index/package_run_dependencies/aria_cpp
+[1.583s] -- Installing: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/share/ament_index/resource_index/parent_prefix_path/aria_cpp
+[1.583s] -- Installing: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/share/aria_cpp/environment/ament_prefix_path.sh
+[1.583s] -- Installing: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/share/aria_cpp/environment/ament_prefix_path.dsv
+[1.583s] -- Installing: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/share/aria_cpp/environment/path.sh
+[1.584s] -- Installing: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/share/aria_cpp/environment/path.dsv
+[1.584s] -- Installing: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/share/aria_cpp/local_setup.bash
+[1.584s] -- Installing: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/share/aria_cpp/local_setup.sh
+[1.584s] -- Installing: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/share/aria_cpp/local_setup.zsh
+[1.584s] -- Installing: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/share/aria_cpp/local_setup.dsv
+[1.584s] -- Installing: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/share/aria_cpp/package.dsv
+[1.585s] -- Installing: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/share/ament_index/resource_index/packages/aria_cpp
+[1.585s] -- Installing: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/share/aria_cpp/cmake/aria_cppConfig.cmake
+[1.585s] -- Installing: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/share/aria_cpp/cmake/aria_cppConfig-version.cmake
+[1.585s] -- Installing: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/share/aria_cpp/package.xml
+[1.586s] Invoked command in '/home/krawlingkorpse/cpp_robotics/aria_ws/build/aria_cpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/krawlingkorpse/robotics/aria_cc/install/aria_ai:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/krawlingkorpse/cpp_robotics/aria_ws/build/aria_cpp

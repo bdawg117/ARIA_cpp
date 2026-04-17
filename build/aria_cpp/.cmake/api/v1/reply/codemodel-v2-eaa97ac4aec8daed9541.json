@@ -1,0 +1,106 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-c668fea3027afadd093a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "aria_cpp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "aria::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aria-378d1187b83b3baf4c35.json",
+					"name" : "aria",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aria_cpp_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aria_cpp_uninstall-2ce5fc53d56219498741.json",
+					"name" : "aria_cpp_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aria_ears::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aria_ears-57cfabffe0380fc875a4.json",
+					"name" : "aria_ears",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aria_terminal::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aria_terminal-34bab9c2ec35935b0d16.json",
+					"name" : "aria_terminal",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aria_tts::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aria_tts-d9f33c25663b0792cd2c.json",
+					"name" : "aria_tts",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-ae64bb63357b365cd52c.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/krawlingkorpse/cpp_robotics/aria_ws/build/aria_cpp",
+		"source" : "/home/krawlingkorpse/cpp_robotics/aria_ws/src/aria_cpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

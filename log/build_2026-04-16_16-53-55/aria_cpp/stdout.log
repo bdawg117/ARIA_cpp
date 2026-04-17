@@ -1,0 +1,21 @@
+[ 50%] [32mBuilding CXX object CMakeFiles/aria_terminal.dir/src/aria_terminal.cpp.o[0m
+[100%] [32m[1mLinking CXX executable aria_terminal[0m
+[100%] Built target aria_terminal
+-- Install configuration: ""
+-- Installing: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/lib/aria_cpp/aria_terminal
+-- Set non-toolchain portion of runtime path of "/home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/lib/aria_cpp/aria_terminal" to ""
+-- Up-to-date: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/share/ament_index/resource_index/package_run_dependencies/aria_cpp
+-- Up-to-date: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/share/ament_index/resource_index/parent_prefix_path/aria_cpp
+-- Up-to-date: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/share/aria_cpp/environment/ament_prefix_path.sh
+-- Up-to-date: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/share/aria_cpp/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/share/aria_cpp/environment/path.sh
+-- Up-to-date: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/share/aria_cpp/environment/path.dsv
+-- Up-to-date: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/share/aria_cpp/local_setup.bash
+-- Up-to-date: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/share/aria_cpp/local_setup.sh
+-- Up-to-date: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/share/aria_cpp/local_setup.zsh
+-- Up-to-date: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/share/aria_cpp/local_setup.dsv
+-- Installing: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/share/aria_cpp/package.dsv
+-- Up-to-date: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/share/ament_index/resource_index/packages/aria_cpp
+-- Up-to-date: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/share/aria_cpp/cmake/aria_cppConfig.cmake
+-- Up-to-date: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/share/aria_cpp/cmake/aria_cppConfig-version.cmake
+-- Up-to-date: /home/krawlingkorpse/cpp_robotics/aria_ws/install/aria_cpp/share/aria_cpp/package.xml
