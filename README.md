@@ -33,6 +33,7 @@ source install/setup.zsh
 ## Running
 
 Each node runs in its own terminal:
+Launch File Coming Soon!
 
 ```bash
 ros2 run aria_cpp aria          # AI brain (LLM)
