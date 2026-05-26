@@ -21,11 +21,13 @@ add_executable(aria_terminal src/aria_terminal.cpp)
 add_executable(aria_tts src/aria_tts.cpp)
 add_executable(aria_ears src/aria_ears.cpp)
 add_executable(aria src/aria.cpp)
+add_executable(aria_wander src/aria_wander.cpp)
 
 ament_target_dependencies(aria_terminal rclcpp std_msgs)
 ament_target_dependencies(aria_tts rclcpp std_msgs)
 ament_target_dependencies(aria_ears rclcpp std_msgs)
 ament_target_dependencies(aria rclcpp std_msgs ament_index_cpp)
+ament_target_dependencies(aria_wander rclcpp sensor_msgs geometry_msgs)
 
 target_include_directories(aria_ears PRIVATE
   ${PORTAUDIO_INCLUDE_DIRS}
@@ -49,6 +51,7 @@ install(TARGETS
   aria_tts
   aria_ears
   aria
+  aria_wander
   DESTINATION lib/${PROJECT_NAME}
 )
 
